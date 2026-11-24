@@ -1,0 +1,8 @@
+metric,count
+total_input,178
+retained,177
+quarantined,1
+malic_acid_z_flags,1
+malic_acid_iqr_flags,4
+proline_z_flags,1
+proline_iqr_flags,1
