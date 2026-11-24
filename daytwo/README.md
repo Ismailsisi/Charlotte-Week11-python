@@ -69,3 +69,4 @@ The dataset is a public-derived teaching version with three instructor-inserted 
 ## GitHub PR
 
 The individual pull request link will be added after the pull request is created.
+Pull request: [Week 11 Class 2 Outlier Audit] (https://github.com/Ismailsisi/Charlotte-Week11-python/pull/1)
